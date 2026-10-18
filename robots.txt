@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gitliamtws.github.io/sitemap.xml
